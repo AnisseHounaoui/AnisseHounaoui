@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisseHounaoui&layout=compact)
 
-<a>
+<a href="https://github.com/AnisseHounaoui/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisseHounaoui&repo=github-readme-stats" />
 </a>
-<a >
+<a href="https://github.com/AnisseHounaoui/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisseHounaoui&repo=convoychat" />
 </a>
