@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 ![Anisse's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnisseHounaoui)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnisseHounaoui&layout=compact)
+
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisseHounaoui&repo=github-readme-stats" />
+</a>
+<a >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AnisseHounaoui&repo=convoychat" />
+</a>
