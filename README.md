@@ -5,8 +5,8 @@
 -->
 
 
-- 🔭 I’m currently working on a machine learning project
-- 🌱 I’m currently learning Ledger technologies
+- 🔭 I’m currently working on improving my Github profile
+- 🌱 I’m currently learning how to improve myself
 - 👯 I’m looking to collaborate on cybersecurity projects
 - 💬 Ask me about anything
 - 📫 How to reach me: hounaoui.anisse@gmail.com
