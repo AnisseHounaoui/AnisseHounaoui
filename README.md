@@ -5,13 +5,10 @@
 -->
 
 
-- 🔭 I’m currently working on improving my Github profile
-- 🌱 I’m currently learning how to improve myself
+- 🔭 I’m currently working on improving my coding skills
 - 👯 I’m looking to collaborate on cybersecurity projects
 - 💬 Ask me about anything
 - 📫 How to reach me: hounaoui.anisse@gmail.com
-- ⚡ Fun fact: I workout 7days/week
-
 
 
 
